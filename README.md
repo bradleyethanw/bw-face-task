@@ -13,4 +13,4 @@ Please cite:
 - Peirce, J, Gray, JR, Simpson, S, MacAskill, M, Höchenberger, R, Sogo, H., Kastman, E, & Lindeløv, JK (2019). PsychoPy2: Experiments in behavior made easy. Behavior Research Methods, 51, 195-203.
 
 ## Publications
-- White, B, Bailey, K, & Petitto LA (2023, November). Negative emotions impact attention for learning in young school-aged children. Society for Neuroscience, DC.
+- White, B, Bailey, K, & Petitto LA (2023, November). Negative emotions impact attention for learning in young school-aged children. Society for Neuroscience, DC. [20231111-sfn-emotions-r.pdf](https://bradleyethanw.github.io/bw-posters/20231111-sfn-emotions-r.pdf)
