@@ -2,7 +2,7 @@
 Bradley White, PhD  
 July 2024
 
-This is a game-like adaptation of the classic facial affect task intended for children around 5 years old (Ekman & Friesen, 1976). This is a test of emotional valence and arousal regulation written in Python using PsychoPy2 (Peirce et al., 2019).
+This is a game-like adaptation of the classic facial affect task intended for children around 5 years old (Ekman & Friesen, 1976). Stimuli were line drawings courtesey of Brechet (2017). This is a test of emotional valence and arousal regulation written in Python using PsychoPy2 (Peirce et al., 2019).
 
 This specific experiment used a LabHackers Millikey Response Box with a green left button and a red right button, mapped to the left and right arrow keys respectively. Lab streaming layer (LSL) was used to send triggers to NIRx fNIRS brain imaging, FLIR infrared thermal imaging, and Tobii infrared eye tracking.
 
